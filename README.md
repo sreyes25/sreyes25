@@ -10,8 +10,13 @@
 - ⚡ Fun fact: **I love to explore new technologies and build cool projects**.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin/in/sergioareyes)](https://www.linkedin.com/in/sergioareyes/)
-[![GitHub](https://img.shields.io/github/followers/sreyes25?label=follow&style=social)](https://github.com/sreyes25)
+<a href="https://linkedin/in/sergioareyes">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="140" height="40"/>
+</a>
+<a href="https://github.com/sreyes25">
+  <img src="https://img.shields.io/github/followers/sreyes25?label=follow&style=social" alt="GitHub" width="140" height="40"/>
+</a>
+
 
 ### Languages and Tools:
 <p align="left">
