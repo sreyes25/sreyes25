@@ -1,11 +1,42 @@
-
-
 ### <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A developer from NYC</h3>
+<h3 align="center">A passionate developer from NYC</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **various personal and academic projects**.
+- 🌱 I’m currently learning **advanced data structures and exploring new technologies**.
+- 👯 I’m looking to collaborate on **open-source projects and innovative tech solutions**.
+- 🤝 I’m looking for help with **Machine Learning and Artificial Intelligence**.
+- 💬 Ask me about **Java, C++, Python, JavaScript, or any tech-related queries**.
+- 📫 How to reach me: **reyesasergio@icloud.com**
+- ⚡ Fun fact: **I love to explore new technologies and build cool projects**.
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin/in/sergioareyes)](https://linkedin/in/sergioareyes)
+[![GitHub](https://img.shields.io/github/followers/sreyes25?label=follow&style=social)](https://github.com/sreyes25)
+
+### Languages and Tools:
 <p align="left">
+  <!-- Icons for each tool and language -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Education
+- **Queens College**: Bachelor of Science in Computer Science (Aug 2023 – Spring 2025)
+- **Suffolk Community College**: Associate of Science in Computer Science (Aug 2020 – May 2023)
+
+### Relevant Coursework
+- Computer Architecture, Linear Algebra, OOP, Calculus, Probability and Statistics
+- Data Structures & Algorithms, Discrete Math, Discrete Structure, Computational Theory, Software Engineering
+
+### Experience
+- **Frontend Developer at Infiniker.com** (May 2023 – June 2023): Developed a responsive website with HTML, CSS, and JS.
+- **Undergraduate Environmental Research**: Designed and 3D printed a flowmeter for estimating pollutant flux into Long Island’s estuaries.
+
+### Projects
+- [Book Manager](https://github.com/sreyes25/BookManager): A Java/JavaFX application for managing books.
+- [Social Media/Twitter Application](https://github.com/sreyes25/JavaFXTwitter-App): A social media app simulating Twitter functionality.
+- [Expense Tracking App](https://github.com/sreyes25/Expense-Tracking-App): A web app for tracking expenses using React and MongoDB.
+
+### Technical Skills
+- **Languages**: Java, C++, Python, JavaScript, HTML, CSS
+- **Technologies**: MySQL, MongoDB, Node.js, Express, React, Git, GitHub
+
+Feel free to reach out if you have any questions or if you want to collaborate on a project!
