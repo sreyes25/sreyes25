@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Sergio</h1>
+
+### <h1 align="center">Hi 👋, I'm Sergio</h1>
 <h3 align="center">A developer from NYC</h3>
 
 <h3 align="left">Connect with me:</h3>
