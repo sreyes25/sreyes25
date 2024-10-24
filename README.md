@@ -1,9 +1,8 @@
 ## **Hello World;**
 
-*"The Gift Of Struggle : )"*
+*"The Gift Of Struggle"*
 
 📨 **Contact me**: [reyesasergio@icloud.com](mailto:reyesasergio@icloud.com)  
-📟 **Let's Workout**: [Instagram @sergioareyes\_](https://instagram.com/sergioareyes_)
 
 ### **Languages/Tools:**
 
