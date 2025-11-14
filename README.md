@@ -1,6 +1,7 @@
 ## **Hello World;**
 
-*"The Gift Of Struggle"* Struggle without purpose is wasted effort
+*"The Gift Of Struggle"* -- Struggle without purpose is wasted effort
+Try harder
 
 📨 **Contact me**: [reyesasergio@icloud.com](mailto:reyesasergio@icloud.com)  
 
