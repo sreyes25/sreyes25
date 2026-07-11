@@ -1,9 +1,5 @@
 ## **Hello World;**
 
-*"The Gift Of Struggle"* -- Struggle without purpose is wasted effort
-
-Try harder
-
 📨 **Contact me**: [reyesasergio@icloud.com](mailto:reyesasergio@icloud.com)  
 
 ### **Languages/Tools:**
@@ -19,4 +15,3 @@ Try harder
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/sergioareyes)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/sreyes25)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://instagram.com/sergioareyes_)
